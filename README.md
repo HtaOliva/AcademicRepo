@@ -6,15 +6,13 @@ Portfólio acadêmico com as atividades das Unidades Curriculares (UCs) e do Pro
 
 ---
 
-## 🧭 Navegação rápida
+## Navegação rápida
 
 | Seção | Descrição |
 |---|---|
 | [📚 Unidades Curriculares](#-unidades-curriculares) | Anotações, resumos e atividades de cada UC |
 | [🚀 Projeto Integrador](#-projeto-integrador) | Documentação e entregas do PI (Azreal) |
 | [🗂️ Estrutura do repositório](#️-estrutura-do-repositório) | Como as pastas estão organizadas |
-| [🏷️ Tags e metadados](#️-tags-e-metadados) | Como encontrar conteúdos por assunto |
-| [🏛️ Arquitetura da Informação](#️-arquitetura-da-informação-aplicada) | Como os conceitos foram aplicados aqui |
 
 ---
 
